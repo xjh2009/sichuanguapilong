@@ -98,14 +98,12 @@ export default function App() {
               </span>
             </div>
             <p className="mt-8 text-neutral-400 text-lg">
-              （愿您的流量中转生意兴隆，无证经营也能长长久久）
+              （愿您的圈钱事业生意兴隆，与无证经营合作也能长长久久）
             </p>
           </motion.div>
         )}
       </main>
-      
-      {/* 讽刺的弹幕/飘字背景元素 */}
-      <div className="fixed inset-0 pointer-events-none z-0 overflow-hidden opacity-[0.03]">
+          <div className="fixed inset-0 pointer-events-none z-0 overflow-hidden opacity-[0.03]">
          <div className="absolute top-[10%] left-[5%] text-6xl font-black rotate-[-15deg]">不收费</div>
          <div className="absolute top-[40%] right-[10%] text-8xl font-black rotate-[10deg]">不玻璃心</div>
          <div className="absolute bottom-[20%] left-[15%] text-7xl font-black rotate-[-5deg]">没画大饼</div>
