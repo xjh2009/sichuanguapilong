@@ -65,7 +65,7 @@ export default function App() {
                   <span className="text-yellow-600 mr-2 opacity-50 group-hover:opacity-100 transition-opacity">【</span>
                   {award}
                   <span className="text-yellow-600 ml-2 opacity-50 group-hover:opacity-100 transition-opacity">】</span>
-                  <span className="text-neutral-500 text-lg ml-2 font-normal">之启动器</span>
+                  <span className="text-neutral-500 text-lg ml-2 font-normal">之人</span>
                 </h2>
               </div>
               <div className="shrink-0 text-neutral-700 hidden sm:block">
