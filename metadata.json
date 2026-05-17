@@ -1,0 +1,6 @@
+{
+  "name": "感谢某启动器的不杀之恩",
+  "description": "一个极其讽刺的页面，送给那个抵制我本人的天下第一启动器",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
