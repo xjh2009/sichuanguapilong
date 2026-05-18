@@ -98,7 +98,7 @@ export default function App() {
               </span>
             </div>
             <p className="mt-8 text-neutral-400 text-lg">
-              （愿您的圈钱事业生意兴隆，与无证经营合作也能长长久久）
+              （愿您的成圣之路，与您一起长长久久）
             </p>
           </motion.div>
         )}
